@@ -282,7 +282,7 @@ if (isset($_POST['submit'])) {
     </form>
     </div>
 </div>	
-  <p style="font-size:20px; color:red; font-family:italic;">Halaman ini hanya bisa di akses oleh admin yang sudah bertanggung jawab, Halaman ini hanya bisa masuk mengguna key/kunci yang sudah di sediakan oleh admin pihak pertama.</p>
+  <p style="font-size:20px; color:red; font-family:italic;">Halaman ini hanya bisa di akses oleh admin yang terpercaya.</p>
         <!--===== MAIN JS =====-->
         <script src="js/main.js"></script>
     </body>
